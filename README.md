@@ -1,6 +1,6 @@
- MVVM , Room DB , Android Studio Kotlin
+ MVVM , Room DB , Android Studio Kotlin ,  rest API 
 
-Welcome to  TODO/Note App! 📱📝
+Welcome to TODO/Note App! 📱📝
 
 
 
